@@ -1,0 +1,16 @@
+body{background-color: #CEA4E3}
+
+.centerResumeDiv {
+
+	border: 1px solid black;
+	width: 90%;
+	background-color: #EBE5E7;
+	
+	float: center;
+	padding: 10px;
+	
+}
+
+.leftText { text-align: left;}
+
+.indexCenterHeader { text-align: center;}
