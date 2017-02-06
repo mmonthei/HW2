@@ -14,3 +14,8 @@ body{background-color: #CEA4E3}
 .leftText { text-align: left;}
 
 .indexCenterHeader { text-align: center;}
+
+.resumeFont { 
+	
+	font-weight: bold;
+}
