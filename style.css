@@ -1,7 +1,7 @@
 body {
 	background-color: #CEA4E3;
 	font-family: Veranda, Geneva, Arial, Helvetica;
-	font-size: 14pt;
+	font-size: 12pt;
 	}
 
 .centerResumeDiv {
@@ -22,10 +22,11 @@ body {
 
 .formatPicture {
 	border: 2px solid black; 
-	width: 304px; 
-	height: 228px; 
-	padding: 15px; 
-	margin-right:10px; 
+	width: 400px; 
+	height: 280px; 
+	margin-right:20px; 
 	margin-left: 5px; 
+	margin-bottom: 10px;
 	float:left;
 }
+
