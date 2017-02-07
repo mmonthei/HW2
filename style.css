@@ -1,4 +1,8 @@
-body{background-color: #CEA4E3}
+body {
+	background-color: #CEA4E3;
+	font-family: Veranda, Geneva, Arial, Helvetica;
+	font-size: 14pt;
+	}
 
 .centerResumeDiv {
 
@@ -6,8 +10,6 @@ body{background-color: #CEA4E3}
 	border: 3px solid black;
 	width: 90%;
 	background-color: #EBE5E7;
-	
-	float: center;
 	padding: 10px;
 	
 }
@@ -16,7 +18,14 @@ body{background-color: #CEA4E3}
 
 .centerHeader { text-align: center;}
 
-.resumeFont { 
-	
-	font-weight: bold;
+.resumeFont { font-weight: bold;}
+
+.formatPicture {
+	border: 2px solid black; 
+	width: 304px; 
+	height: 228px; 
+	padding: 15px; 
+	margin-right:10px; 
+	margin-left: 5px; 
+	float:left;
 }
